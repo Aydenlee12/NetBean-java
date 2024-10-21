@@ -1,0 +1,15 @@
+Which generation the Java belongs to?	
+1. Machine level 	
+2. Assembly level	
+3. High level
+3
+Which of the following is not a primitive data type?
+1. String
+2. int
+3. double	
+1
+Which of the following loops runs at least one iteration even the condition is false at the beginning?	
+1. while loop 	
+2. do-while loop	
+3. for loop
+2
